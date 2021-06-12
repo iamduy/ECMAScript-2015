@@ -1,0 +1,323 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "  Christmas Wreath",
+      "category": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Fhome-decor-1.jpg?alt=media&token=a5ac750a-302a-4278-88b8-831cd93fbf0d",
+      "price": "32",
+      "status": "true",
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": "82",
+      "feature": "1"
+    },
+    {
+      "id": "2",
+      "name": "Clock Handmade",
+      "category": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Fhome-decor-2.jpg?alt=media&token=9fc575b4-be39-48f2-9d6b-0fac45160769",
+      "price": "18",
+      "status": true,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": 32,
+      "feature": "1"
+    },
+    {
+      "id": "3",
+      "name": "Сhalkboard",
+      "category": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Fhome-decor-3.jpg?alt=media&token=d1fed2b3-3e0a-416c-b869-9515e36ace4d",
+      "price": "24",
+      "status": true,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": 82,
+      "feature": "1"
+    },
+    {
+      "id": "4",
+      "name": "Dried Flower",
+      "category": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Fhome-decor-4.jpg?alt=media&token=81d60847-103d-4ec2-9d78-b1a65bd471b8",
+      "price": "16",
+      "status": false,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": 25,
+      "feature": "0"
+    },
+    {
+      "id": "5",
+      "name": "Cosmetic Owl Bag",
+      "category": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Faccessories-1.jpg?alt=media&token=73634e89-32d0-4f98-977e-4ceae76f8f82",
+      "price": "16",
+      "status": true,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": 55,
+      "feature": "0"
+    },
+    {
+      "id": "6",
+      "name": " Deer Head",
+      "category": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Fhome-decor-5.jpg?alt=media&token=9bc25a1b-f36b-46ab-a6ef-6cf4c38e9e4a",
+      "status": true,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "price": "11",
+      "quantity": "1",
+      "feature": "0"
+    },
+    {
+      "id": "7",
+      "name": "Cutting Board",
+      "category": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Fhome-decor-6.jpg?alt=media&token=0cffa8ac-0c16-4419-9391-0ddad20593aa",
+      "price": "12",
+      "status": true,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": 28,
+      "feature": "0"
+    },
+    {
+      "id": "8",
+      "name": "Knitted Cat",
+      "category": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Faccessories-2.jpg?alt=media&token=1180f265-1d0a-44b7-9165-f8d82404493e",
+      "price": "12",
+      "status": true,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": 55,
+      "feature": "0"
+    },
+    {
+      "id": "9",
+      "name": "Silver Bracelet",
+      "category": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Faccessories-3.jpg?alt=media&token=9540a2e5-3cf6-4f2a-8753-d0c9e66923c9",
+      "price": "23",
+      "status": false,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": 88,
+      "feature": "1"
+    },
+    {
+      "id": "10",
+      "name": "Heart Handmade",
+      "category": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Faccessories-4.jpg?alt=media&token=08e49879-1224-46f1-b1cf-c423f84ed369",
+      "price": "3",
+      "status": false,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": 82,
+      "feature": "1"
+    },
+    {
+      "id": "11",
+      "name": "  Brown Bear",
+      "category": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Faccessories-5.jpg?alt=media&token=fc620b97-d942-49b8-b1d6-e8e53082018a",
+      "price": "12",
+      "status": true,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": "100",
+      "feature": "0"
+    },
+    {
+      "id": "m76j21wk9",
+      "name": "The Deer Handmade",
+      "category": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Faccessories-6.jpg?alt=media&token=af860ac2-08bf-4f46-ad94-5f5e35ea5966",
+      "price": "11",
+      "status": "true",
+      "intro": "cute cute lắm nhé :))))",
+      "quantity": "33",
+      "feature": "1"
+    },
+    {
+      "id": "9e94h8nyl",
+      "name": "gucci",
+      "category": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Ftom.jpg?alt=media&token=97ed6b74-a492-4bfc-8613-7715dfa6d837",
+      "price": "12",
+      "status": "true",
+      "intro": "sdasfgfdfd",
+      "quantity": "12",
+      "feature": "0"
+    }
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "title": "30 Homemade Food Gifts For The Holidays",
+      "image": "https://handmade-shop.cmsmasters.net/wp-content/uploads/2016/12/4-4-580x580.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis semper tortor. Quisque non felis elementum augue ullamcorper laoreet. Nam porta leo ut felis suscipit, vel semper lectus vehicula. Nulla vitae porta leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce bibendum arcu in lacinia condimentum. Aenean id nunc quis ex congue facilisis. Proin non tempus arcu. Donec dictum elementum ex et aliquet. Praesent at pulvinar augue, ut ultricies mauris. Nulla congue nulla in semper cursus. Sed auctor condimentum sem a tincidunt. Duis rhoncus maximus varius. Nullam imperdiet imperdiet massa vel lacinia. Nam auctor odio velit, at ultricies nisi dictum quis. Vestibulum tempus tellus nec leo malesuada, in tempus quam vehicula."
+    },
+    {
+      "id": "2",
+      "title": "Simple & Easy DIY Flower Pot Designs",
+      "image": "https://handmade-shop.cmsmasters.net/wp-content/uploads/2016/06/6-1-580x580.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis semper tortor. Quisque non felis elementum augue ullamcorper laoreet. Nam porta leo ut felis suscipit, vel semper lectus vehicula. Nulla vitae porta leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce bibendum arcu in lacinia condimentum. Aenean id nunc quis ex congue facilisis. Proin non tempus arcu. Donec dictum elementum ex et aliquet. Praesent at pulvinar augue, ut ultricies mauris. Nulla congue nulla in semper cursus. Sed auctor condimentum sem a tincidunt. Duis rhoncus maximus varius. Nullam imperdiet imperdiet massa vel lacinia. Nam auctor odio velit, at ultricies nisi dictum quis. Vestibulum tempus tellus nec leo malesuada, in tempus quam vehicula."
+    },
+    {
+      "id": "3",
+      "title": "10+ Ideas About Handmade Accessories",
+      "image": "https://handmade-shop.cmsmasters.net/wp-content/uploads/2016/06/5-2-580x580.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis semper tortor. Quisque non felis elementum augue ullamcorper laoreet. Nam porta leo ut felis suscipit, vel semper lectus vehicula. Nulla vitae porta leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce bibendum arcu in lacinia condimentum. Aenean id nunc quis ex congue facilisis. Proin non tempus arcu. Donec dictum elementum ex et aliquet. Praesent at pulvinar augue, ut ultricies mauris. Nulla congue nulla in semper cursus. Sed auctor condimentum sem a tincidunt. Duis rhoncus maximus varius. Nullam imperdiet imperdiet massa vel lacinia. Nam auctor odio velit, at ultricies nisi dictum quis. Vestibulum tempus tellus nec leo malesuada, in tempus quam vehicula."
+    },
+    {
+      "id": "4",
+      "title": "How to Wrap 15 Gifts In 3 Minutes",
+      "image": "https://handmade-shop.cmsmasters.net/wp-content/uploads/2016/06/1-2.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis semper tortor. Quisque non felis elementum augue ullamcorper laoreet. Nam porta leo ut felis suscipit, vel semper lectus vehicula. Nulla vitae porta leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce bibendum arcu in lacinia condimentum. Aenean id nunc quis ex congue facilisis. Proin non tempus arcu. Donec dictum elementum ex et aliquet. Praesent at pulvinar augue, ut ultricies mauris. Nulla congue nulla in semper cursus. Sed auctor condimentum sem a tincidunt. Duis rhoncus maximus varius. Nullam imperdiet imperdiet massa vel lacinia. Nam auctor odio velit, at ultricies nisi dictum quis. Vestibulum tempus tellus nec leo malesuada, in tempus quam vehicula."
+    },
+    {
+      "id": "5",
+      "title": "Romantic Letters Decoration Tutorial",
+      "image": "https://handmade-shop.cmsmasters.net/wp-content/uploads/2016/06/3-2-580x580.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sagittis semper tortor. Quisque non felis elementum augue ullamcorper laoreet. Nam porta leo ut felis suscipit, vel semper lectus vehicula. Nulla vitae porta leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce bibendum arcu in lacinia condimentum. Aenean id nunc quis ex congue facilisis. Proin non tempus arcu. Donec dictum elementum ex et aliquet. Praesent at pulvinar augue, ut ultricies mauris. Nulla congue nulla in semper cursus. Sed auctor condimentum sem a tincidunt. Duis rhoncus maximus varius. Nullam imperdiet imperdiet massa vel lacinia. Nam auctor odio velit, at ultricies nisi dictum quis. Vestibulum tempus tellus nec leo malesuada, in tempus quam vehicula."
+    },
+    {
+      "id": "6",
+      "title": "What is paleo pizza crust made out of?",
+      "image": "https://handmade-shop.cmsmasters.net/wp-content/uploads/2016/06/1-2.jpg",
+      "content": "We've seen it all kinds of ways, with different types of flours, but we settled on almond flour for its nutty flavor. We also mix in spices—Italian seasoning and garlic powder—to give it more flavor. We skip yeast because it can be a pain and instead incorporate eggs and olive oil. The eggs help make the crust fluffy."
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "images": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Fhome-decor-4.jpg?alt=media&token=81d60847-103d-4ec2-9d78-b1a65bd471b8",
+      "name": "  Home Decor"
+    },
+    {
+      "id": "2",
+      "images": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Faccessories-6.jpg?alt=media&token=b0f27fa4-e63b-4503-94c8-443892fd73ac",
+      "name": "  Accessories"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Duong Khanh Duy",
+      "username": "duydkph10118",
+      "password": "duy1234",
+      "email": "duydkph10118@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/shop-ff2b2.appspot.com/o/images%2F2a7afe484844554d288c704c666557c4.jpeg?alt=media&token=4dacc0c1-aef5-4e34-9634-a4aefca35e9d",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "iamduy",
+      "name": "Duong Khanh Duy",
+      "password": "duy1234",
+      "avatar": "https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png",
+      "email": "duylatoi@fpt.com",
+      "role": "customer"
+    },
+    {
+      "id": 3,
+      "username": "watermelon",
+      "name": "Pokemon",
+      "password": "duy1234",
+      "avatar": "https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png",
+      "email": "pokemon2001@gmail.com",
+      "role": "customer"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Duong Khanh Duy",
+      "phone": "0398903256",
+      "email": "duydkph10118@gmail.com",
+      "comment": "I want to buy brown teddy bear !"
+    }
+  ],
+  "order": [
+    {
+      "id": "1",
+      "id_order_maker": "1",
+      "name_of_consignee": "duy",
+      "address": "duy",
+      "phone": "duy",
+      "subtotal": "18"
+    },
+    {
+      "id": "2",
+      "id_order_maker": "2",
+      "name_of_consignee": "Duy Khanh",
+      "address": "Nguyen Co Thach",
+      "phone": "0123",
+      "subtotal": "32"
+    },
+    {
+      "id": "3",
+      "id_order_maker": "2",
+      "name_of_consignee": "Duy Khanh",
+      "address": "Nguyen Co Thach",
+      "phone": "09346",
+      "subtotal": "12"
+    },
+    {
+      "id": "4",
+      "id_order_maker": "1",
+      "name_of_consignee": "Duy bảnh",
+      "address": "hehe",
+      "phone": "0398903256",
+      "subtotal": "36"
+    }
+  ],
+  "orderdetail": [
+    {
+      "id_order": "1",
+      "id": 1,
+      "name": "Clock Handmade",
+      "category": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Fhome-decor-2.jpg?alt=media&token=9fc575b4-be39-48f2-9d6b-0fac45160769",
+      "price": "18",
+      "status": true,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": 32,
+      "feature": "1",
+      "sl": 1
+    },
+    {
+      "id_order": "2",
+      "id": 2,
+      "name": "  Christmas Wreath",
+      "category": "1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Fhome-decor-1.jpg?alt=media&token=a5ac750a-302a-4278-88b8-831cd93fbf0d",
+      "price": "32",
+      "status": "true",
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": "82",
+      "feature": "1",
+      "sl": 1
+    },
+    {
+      "id_order": "3",
+      "id": 3,
+      "name": "Knitted Cat",
+      "category": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Faccessories-2.jpg?alt=media&token=1180f265-1d0a-44b7-9165-f8d82404493e",
+      "price": "12",
+      "status": true,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": 55,
+      "feature": "0",
+      "sl": 1
+    },
+    {
+      "id_order": "4",
+      "id": 4,
+      "name": "Knitted Cat",
+      "category": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-ea818.appspot.com/o/images%2Faccessories-2.jpg?alt=media&token=1180f265-1d0a-44b7-9165-f8d82404493e",
+      "price": "12",
+      "status": true,
+      "intro": "Fam locavore kickstarter distillery. Mixtape chillwave tumeric sriracha taximy chia microdosing tilde DIY. XOXO fam indxgo juiceramps cornhole raw denim forage brooklyn.",
+      "quantity": 55,
+      "feature": "0",
+      "sl": 3
+    }
+  ]
+}
